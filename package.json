@@ -1,0 +1,22 @@
+{
+    "name": "@ayanobot/reminder",
+    "description": "Ayano's reminder parser (:",
+    "version": "1.0.0",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "repository": "https://github.com/ayanobot/reminder.git",
+    "author": "newt! <newtykins@outlook.com>",
+    "license": "MIT",
+    "dependencies": {
+        "chrono-node": "^2.3.2"
+    },
+    "keywords": [
+        "ayano",
+        "bot",
+        "discord",
+        "reminder",
+        "parser",
+        "date"
+    ],
+    "packageManager": "yarn@3.0.2"
+}
